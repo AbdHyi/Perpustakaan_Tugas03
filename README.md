@@ -17,7 +17,7 @@
 3. Detail tools :
    - mysql-8.0.30-winx64
    - Apache version httpd-2.4.54-win64-VS16
-   - NetBeans IDE 29
+   - NetBeans IDE 29 (Java with Maven)
 
 ### Ini repository apa?
 Jawab : 
