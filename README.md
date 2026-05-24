@@ -1,3 +1,15 @@
+# Nama Pemilik Repository
+
+Nama : Abdul Hayyi
+NPM : 2410010612
+Kelas : 4D TI Reguler Pagi Banjarbaru
+Mata Kuliah : Pemrograman Berbasis Objek (PBO)
+Dosen : Mirza Yogy Kurniawan
+Semester : 4
+Tugas : 3 Constructor
+Link Tugas (Classroom) : 
+https://classroom.google.com/u/1/c/ODQ5MTUzMzI2NTMx/a/ODY0OTg1NjA4MzQ1/details
+
 # Perpustakaan_Tugas03
 
 ## Detail Tambahan :
